@@ -1,0 +1,16 @@
+{
+  "name": "uupaa.geojson.js",
+  "version": "0.0.1",
+  "description": "Convert to GeoJSON format",
+  "keywords": ["GeoJSON"],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uupaa/GeoJSON.js.git"
+  },
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "author": "uupaa.js@gmail.com",
+  "license": "MIT",
+  "main": "GeoJSON.js"
+}
